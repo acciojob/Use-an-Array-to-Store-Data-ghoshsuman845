@@ -1,3 +1,4 @@
-let yourArray=['one', 2, 'three', true];
+let yourArray = ['apple', 3, true, 'banana', 7];
+
 
 
